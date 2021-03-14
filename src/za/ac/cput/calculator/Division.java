@@ -1,5 +1,10 @@
 package za.ac.cput.calculator;
 
+/**
+ * @author Bukhona Ncedo
+ *
+ */
+
 public class Division {
     /**
      * Returns results of interger division
